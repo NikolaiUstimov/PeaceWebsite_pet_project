@@ -1,0 +1,42 @@
+@font-face {
+	font-family: 'Roboto';
+	src: url('../fonts/Roboto/Roboto-Regular.ttf') format('TrueType');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Roboto';
+	src: url('../fonts/Roboto/Roboto-Medium.ttf') format('TrueType');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Winter Insight';
+	src: url('../fonts/Winter-Insight/Winter-Insight.ttf') format('TrueType');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Yrsa';
+	src: url('../fonts/Yrsa/static/Yrsa-Regular.ttf') format('TrueType');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Segoe UI';
+	src: url('../fonts/Segoe-UI/Segoe-UI.ttf') format('TrueType');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Aleo';
+	src: url('../fonts/Aleo/static/Aleo-Regular.ttf') format('TrueType');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Montserrat';
+	src: url('../fonts/Montserrat/static/Montserrat-Regular.ttf') format('TrueType');
+	font-weight: 400;
+	font-style: normal;
+}
